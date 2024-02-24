@@ -1,4 +1,4 @@
-[![MasterHead]([https://github.com/3bbs/3bbs/assets/142512991/f8a80bae-da6f-43ed-aa13-80e1918a8480](https://github.com/3bbs/3bbs/assets/142512991/ec104bf3-983b-419c-a7ef-a9ad35759aaf))
+![logo](https://github.com/3bbs/3bbs/blob/main/Add%20a%20heading%20(1).jpg)
 
 
 
